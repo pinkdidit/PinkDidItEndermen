@@ -1,0 +1,5 @@
+name: PinkDidItEndermen
+version: '${project.version}'
+main: me.pdi.endermen.PinkDidItEndermen
+api-version: 1.18
+authors: [ murm ]
